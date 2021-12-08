@@ -1,0 +1,5 @@
+{ "Id" : 1,
+ "Discription" : "do_not_open_login_page",
+ "Full_discription" : "open_web_brouser, go_to_page_www...com",
+ "Severity" : "high",
+ "Priority" : "critical"  }
